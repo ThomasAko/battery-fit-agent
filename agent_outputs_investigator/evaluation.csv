@@ -1,0 +1,11 @@
+cell_id,label,category,confidence,baseline,llm_correct,baseline_correct
+FastCharge_000003_CH40,unusual_shape,unusual_shape,high,unusual_shape,True,True
+FastCharge_000008_CH47,real_early_ageing,real_early_ageing,high,real_early_ageing,True,True
+FastCharge_000026_CH5,real_early_ageing,normal,low,real_early_ageing,False,True
+FastCharge_000026_CH6,real_early_ageing,error,low,real_early_ageing,False,True
+FastCharge_000041_CH10,real_early_ageing,error,low,real_early_ageing,False,True
+FastCharge_000045_CH1,data_quality,error,low,data_quality,False,True
+FastCharge_000045_CH2,test_ended_before_eol,error,low,test_ended_before_eol,False,True
+FastCharge_000045_CH3,test_ended_before_eol,error,low,test_ended_before_eol,False,True
+FastCharge_000062_CH47,unusual_shape,error,low,unusual_shape,False,True
+FastCharge_000068_CH38,unusual_shape,error,low,unusual_shape,False,True

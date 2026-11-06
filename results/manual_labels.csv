@@ -1,0 +1,11 @@
+cell_id,label,acceptable_alternative,note
+FastCharge_000026_CH5,real_early_ageing,,end of life at cycle 209; knee at cycle 28
+FastCharge_000041_CH10,real_early_ageing,,end of life at cycle 148; shortest-lived cell
+FastCharge_000026_CH6,real_early_ageing,,end of life at cycle 483; knee at cycle 168; cubic beats double exponential
+FastCharge_000008_CH47,real_early_ageing,unusual_shape,end of life at cycle 616; knee at 69% of life; cubic beats double exponential
+FastCharge_000003_CH40,unusual_shape,,exponential and double exponential tied (dBIC 0.3)
+FastCharge_000068_CH38,unusual_shape,,power law beats double exponential; 3 outliers
+FastCharge_000062_CH47,unusual_shape,,exponential beats double exponential; 4 outliers
+FastCharge_000045_CH2,test_ended_before_eol,,almost linear fade to about 1.04 Ah over 1178 cycles
+FastCharge_000045_CH3,test_ended_before_eol,,almost linear fade over 1176 cycles; never reached end of life
+FastCharge_000045_CH1,data_quality,test_ended_before_eol,67 outliers and 6 recovery jumps between cycles 400 and 850

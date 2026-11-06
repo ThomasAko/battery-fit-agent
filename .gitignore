@@ -1,0 +1,20 @@
+# data and run outputs (dataset is not redistributed)
+# raw FastCharge JSONs (100-200 MB each) stay local; the extracted per-cell CSVs are committed
+data/FastCharge/*
+!data/FastCharge/.gitkeep
+agent_outputs/
+demo_data/
+demo_outputs/
+*.json.gz
+*_structure.json
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# os
+.DS_Store
